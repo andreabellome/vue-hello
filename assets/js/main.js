@@ -3,7 +3,8 @@ createApp({
     data() {
       return {
         /* variables Vue 3 */
-        message: 'Hello Vue!'
+        message: 'Hello Vue!',
+        inputValue: 'Andrea'
       }
     },
     methods: {
