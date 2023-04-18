@@ -8,6 +8,6 @@ createApp({
     },
     methods: {
         /* functions Vue 3 */
-        
+
     }
-  }).mount('#app')
+}).mount('#app')
